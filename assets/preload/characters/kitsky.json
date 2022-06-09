@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "nusky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "nusky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "nusky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				16
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "nusky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "nusky right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kitsky_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kitsky",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

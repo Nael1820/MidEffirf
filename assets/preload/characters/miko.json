@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "miko idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "miko left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "miko down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				60
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "miko up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "miko right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "q",
+			"fps": 30,
+			"name": "miko Q",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-14
+			],
+			"anim": "r",
+			"fps": 30,
+			"name": "miko R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-68
+			],
+			"anim": "t",
+			"fps": 30,
+			"name": "miko T",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "what",
+			"fps": 30,
+			"name": "miko what",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/miko_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "miko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
